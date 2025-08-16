@@ -1,5 +1,5 @@
 # University of Rochester Biomedical Data Science Hackathon Summer 2025
-Welcome to the landing page for the hackathon. The event will run from 8/17/25 through 8/23/2025 online. We will host a hybrid kick off event on 8/18/25. The latest information about the event will be posted here.  
+Welcome to the landing page for the hackathon. The event will run from 8/19/25 through 8/23/2025 online. We will host a hybrid kick off event on 8/18/25. The latest information about the event will be posted here.  
 
  Please make sure each individual competing on your team is fully registered. Each team needs a captain with a github handle. To receive a prize, you must supply your University of Rochester e-mail address. All teams scoring better than random will receive a participation prize. 1st and 2nd place winning teams in each division will get a cash prize (see below).
  **All team members must submit their own registration form to receive prizes.** To finish your team registration or to register for an existing team, use this [google form](https://docs.google.com/forms/d/e/1FAIpQLScDODn2UyefKIDaCjTlYF29xjRNgk2aJ98NtVksoDU1kFL44w/viewform?usp=sharing&ouid=101864452815264823434). 
